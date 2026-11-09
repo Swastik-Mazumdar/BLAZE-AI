@@ -1,7 +1,0 @@
-# Blaze AI — core runtime (offline butler, UI, capture)
-PyQt6>=6.8,<6.12
-psutil>=5.9,<7
-imageio-ffmpeg>=0.5,<1
-pynput>=1.7.7,<2
-pyttsx3>=2.90,<3
-certifi>=2024.2

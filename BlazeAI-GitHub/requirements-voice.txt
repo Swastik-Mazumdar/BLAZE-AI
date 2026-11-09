@@ -1,4 +1,0 @@
-# Optional local push-to-talk stack. Nothing is downloaded until first use.
-faster-whisper>=1.0,<2
-sounddevice>=0.4.6,<1
-numpy>=1.24,<3
